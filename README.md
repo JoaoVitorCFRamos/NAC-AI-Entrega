@@ -24,7 +24,9 @@ Para utilizar essse projeto é necessário ter o python instalado na sua máquin
 Para clonar o repositório:
 
 -Abra o prompt de comando
+
 -cd desktop
+
 -git clone https://github.com/JoaoVitorCFRamos/NAC-AI-Entrega
 
 
