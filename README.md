@@ -10,7 +10,8 @@ Ano: 4
 
 # Objetivo / descrição do Projeto
 Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas.
-Nosso Objetivo é aplicar um filtro que sigmenta apenas os circulos maiores da Imagem principal, fazer o contorno deles, traçar uma reta entre eles e calcular o ângulo dessa reta. 
+
+Nosso Objetivo é aplicar um filtro que sigmenta apenas os circulos maiores da Imagem principal, fazer o contorno deles, traçar uma reta entre eles e calcular o ângulo dessa reta. Ele serve como forma de avaliação e aprendizado. 
 
 
 # Diagrama do projeto
