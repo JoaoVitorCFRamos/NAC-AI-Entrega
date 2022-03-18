@@ -30,6 +30,6 @@ Para clonar o repositório:
 -git clone https://github.com/JoaoVitorCFRamos/NAC-AI-Entrega
 
 
-Referências
+# Referências
 mastering-markdown
 Basic writing and formatting syntax
