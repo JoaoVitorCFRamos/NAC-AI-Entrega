@@ -1,6 +1,6 @@
 # NAC-AI-Entrega
 
-nome dos alunos:
+Nome dos alunos:
 - João Vitor de Camargo Ferreira Ramos
 - Leonardo da Rocha Leite Antônio 
 
