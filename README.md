@@ -21,7 +21,8 @@ Explique de forma clara qual o objeto deste projeto, para que serve e comente as
 # Como usar
 Para utilizar essse projeto é necessário ter o python instalado na sua máquina. Para confecção do projeto utilizamos o Jupyter notebook.
 
-Para clonar o repositório :
+Para clonar o repositório:
+
 -Abra o prompt de comando
 -cd desktop
 -git clone https://github.com/JoaoVitorCFRamos/NAC-AI-Entrega
